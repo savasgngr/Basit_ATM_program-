@@ -1,5 +1,4 @@
 # Basit_ATM_programi
-run:
 ******************************
 1.işlem:bakiye sorgulama
 2.işlem:para cekme
